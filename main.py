@@ -1,24 +1,11 @@
-# Traduzir palavras e textos em documentos PDF
-
-# requisitos
-# vscode
-# python
-# pip install googletrans==3.1.0a0
-# pip install PyPDF2
-
-# Contexto de uso:
-# googletrans
-# Tradução de textos
-# Melhoria da acessibilidade
-# PyPDF2
-# Extração, processamento, análise e visualização de dados em documentos PDF
-
 from googletrans import Translator
 from PyPDF2 import PdfReader
 
 translator = Translator()
 
 lista = ["orange", "apple", "love"]
+
+# Traduzir textos
 
 translations = translator.translate(lista, dest='pt')
 
