@@ -1,6 +1,6 @@
 # Traduzir palavras e textos em documentos PDF utilizando python
 
-Esses são os arquivos utilizados no meu vídeo, acesso o link para ver o vídeo e me ajudar a crescer o canal ❤.
+Esses são os arquivos utilizados no meu vídeo, acesso o [link](https://youtu.be/Hd4scLT9Qq0) para ver o vídeo e me ajudar a crescer o canal ❤.
 
 ## Contexto de uso
 
